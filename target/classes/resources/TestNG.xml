@@ -1,0 +1,24 @@
+<suite name = "FreeCRMApplicationTest">
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+
+    </listeners>
+    <test name = "LoginPage">
+        <classes>
+            <class name ="com.crm.qa.testcases.LogInTest"></class>
+        </classes>
+    </test>
+
+    <test name = "HomePage">
+        <classes>
+            <class name ="com.crm.qa.testcases.HomePageTest"></class>
+        </classes>
+    </test>
+    <test name = "contactTestforcrm">
+        <classes>
+            <class name ="com.crm.qa.testcases.ContactTest"></class>
+        </classes>
+    </test>
+
+</suite>

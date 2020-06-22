@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HomePage"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="3"
+           time="0.000">
+  <properties />
+  
+            <testcase name="userlabel" time="0.0" classname="com.crm.qa.testcases.HomePageTest">
+          <skipped />
+    </testcase>
+            <testcase name="varifyHomePage" time="0.0" classname="com.crm.qa.testcases.HomePageTest">
+          <skipped />
+    </testcase>
+            <testcase name="ContactsPage" time="0.0" classname="com.crm.qa.testcases.HomePageTest">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>

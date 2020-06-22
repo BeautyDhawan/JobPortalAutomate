@@ -1,0 +1,13 @@
+<suite name = "FreeCRMApplicationTest">
+
+    <test name = "Freecrmtest">
+        <classes>
+            <class name ="com.crm.qa.testcases.ContactTest"></class>
+            <class name ="com.crm.qa.testcases.HomePageTest"></class>
+            <class name ="com.crm.qa.testcases.LogInTest"></class>
+            <class name ="com.crm.qa.testcases.signuppagetest"></class>
+
+        </classes>
+    </test>
+
+</suite>

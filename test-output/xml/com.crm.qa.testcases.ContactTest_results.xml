@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="contactTestforcrm"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="2"
+           time="0.000">
+  <properties />
+  
+            <testcase name="checkboxcheck" time="0.0" classname="com.crm.qa.testcases.ContactTest">
+          <skipped />
+    </testcase>
+            <testcase name="verifyContactsPageLabe" time="0.0" classname="com.crm.qa.testcases.ContactTest">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>
